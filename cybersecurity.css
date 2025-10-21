@@ -139,7 +139,7 @@ footer a:hover { text-decoration: underline; }
     margin-top: 1.5rem;
 }
 
-.contact-form label { font-weight: 600; color: #144961;
+.contact-form label { font-weight: 600; color: #144961; }
 
 .contact-form input,
 .contact-form textarea {
